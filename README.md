@@ -1,1 +1,1 @@
-# nfnft - non-fungible-non-functional-token
+# nfnft - non-functional-non-fungible-token
