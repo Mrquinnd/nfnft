@@ -1,3 +1,3 @@
 # nfnft - non-functional-non-fungible-token
 
-Counter uses JS + Jquery to perform live updates.
+Counter component useing JS + Jquery to perform asynchronous updates of an NFT infection counter.
